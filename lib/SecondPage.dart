@@ -128,7 +128,7 @@ class _secondPageState extends State<secondPage> {
                     elevation: 2,
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(15.0)),
-                    minimumSize: Size(200, 50),
+                    minimumSize: Size(170, 50),
                   ),
                 ),
 
@@ -140,7 +140,7 @@ class _secondPageState extends State<secondPage> {
                       elevation: 2,
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(15.0)),
-                      minimumSize: Size(200, 50),
+                      minimumSize: Size(170, 50),
                     ),
                     child: Text("Next")
                 )
